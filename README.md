@@ -14,20 +14,20 @@ Deletes already-downloaded macOS updates. This cannot be undone.
 All other changes can be reversed using Undo the Block.
 Use at your own risk. Not signed or notarized by Apple.
 
-- Compatibility -
+- Compatibility
 Ventura 13: Verified (MacBook Air 2015, OCLP).
 Sequoia 15: Partially verified.
 Other versions: Not tested.
 Apple Silicon: Not tested.
 
-- Features -
+- Features
 Block automatic macOS updates.
 Remove upgrade notifications and badges.
 Check block status and repair if needed.
 Restore previous settings with one-click undo.
 Automatic backups and debug reports.
 
-- Usage -
+- Usage
 Download .zip file from this repository.
 Right-click Block macOS Updates.app and select Open.
 Choose Block macOS Updates.
