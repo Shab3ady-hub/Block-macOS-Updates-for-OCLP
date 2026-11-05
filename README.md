@@ -28,8 +28,8 @@ Restore previous settings with one-click undo.
 Automatic backups and debug reports.
 
 - Usage -
-Download Block macOS Updates.app.
-Right-click and select Open.
+Download .zip file from this repository.
+Right-click Block macOS Updates.app and select Open.
 Choose Block macOS Updates.
 Enter your administrator password.
 Restart your Mac.
